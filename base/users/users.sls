@@ -11,5 +11,3 @@ admin_users:
     shell: /sbin/nologin
     uid: 4000
     gid: 4000
-  e99695p:
-    fullname: Cebin Benny
